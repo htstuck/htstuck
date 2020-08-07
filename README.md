@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello & Welcome
 
 <!--
 **htstuck/htstuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### What I know:
+
+![Python](https://img.shields.io/badge/-Python-grey?logo=python&style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-grey?logo=java&style=flat-square&logoColor=white)
+
+
+#####
